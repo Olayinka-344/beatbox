@@ -1,0 +1,629 @@
+.player{
+    position: absolute;
+    margin-top: 30px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player audio{
+    width: 95%;
+    outline: none;
+}
+.player .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 10px;
+    font-size: 17px;
+}
+.player .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+
+.player2{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player2 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player2 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player2 audio{
+    width: 95%;
+    outline: none;
+}
+.player2 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 10px;
+    font-size: 11px;
+}
+.player2 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+
+.player3{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 600px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player3 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player3 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player3 audio{
+    width: 95%;
+    outline: none;
+}
+.player3 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player3 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player4{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 900px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player4 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player4 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player4 audio{
+    width: 95%;
+    outline: none;
+}
+.player4 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 17px;
+}
+.player4 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player5{
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 1200px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player5 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player5 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player5 audio{
+    width: 95%;
+    outline: none;
+}
+.player5 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 17px;
+}
+.player5 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player6{
+    position: absolute;
+    margin-top: 480px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player6 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player6 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player6 audio{
+    width: 95%;
+    outline: none;
+}
+.player6 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player6 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player7{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 300px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player7 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player7 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player7 audio{
+    width: 95%;
+    outline: none;
+}
+.player7 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player7 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player8{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 600px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player8 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player8 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player8 audio{
+    width: 95%;
+    outline: none;
+}
+.player8 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 15px;
+}
+.player8 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player9{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 900px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player9 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player9 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player9 audio{
+    width: 95%;
+    outline: none;
+}
+.player9 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.player9 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player10{
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 1200px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player10 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player10 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player10 audio{
+    width: 95%;
+    outline: none;
+}
+.player10 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 18px;
+    text-decoration: none;
+}
+.player10 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player11{
+    position: absolute;
+    margin-top: 960px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player11 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player11 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player11 audio{
+    width: 95%;
+    outline: none;
+}
+.player11 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player11 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player12{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 300px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player12 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player12 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player12 audio{
+    width: 95%;
+    outline: none;
+}
+.player12 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 15px;
+}
+.player12 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player13{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 600px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player13 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player13 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player13 audio{
+    width: 95%;
+    outline: none;
+}
+.player13 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player13 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player14{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 900px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player14 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player14 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player14 audio{
+    width: 95%;
+    outline: none;
+}
+.player14 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player14 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player15{
+    position: absolute;
+    margin-top: 960px;
+    margin-left: 1200px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player15 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player15 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player15 audio{
+    width: 95%;
+    outline: none;
+}
+.player15 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 20px;
+}
+.player15 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player16{
+    position: absolute;
+    margin-top: 1440px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player16 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player16 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player16 audio{
+    width: 95%;
+    outline: none;
+}
+.player16 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 18px;
+}
+.player16 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}
+.player17{
+    position: absolute;
+    margin-top: 1440px;
+    margin-left: 300px;
+    width: 250px;
+    background: #f1f3f4;
+    border-radius: 20px;
+    box-shadow: 0 5px 30px black;
+}
+.player17 .imgbox{
+    position: relative;
+    width: 100%;
+    height: 300px;
+}
+.player17 .imgbox img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.player17 audio{
+    width: 95%;
+    outline: none;
+}
+.player17 .txt{
+    color: rgb(71, 3, 18);
+    padding: 0 0 30px;
+    font-size: 18px;
+}
+.player17 .txt:hover{
+    text-decoration: underline;
+    color: rgb(255, 81, 0);
+}

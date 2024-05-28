@@ -1,0 +1,78 @@
+.nova{
+    background: linear-gradient(to right, #50043f, rgb(78, 1, 48));
+}
+
+.name{
+    background-image: url(./images/freefoto.jpg);
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+
+h1{
+    color: aqua;
+    font-size: 50px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    text-shadow: 0 0 25px black;
+    animation: changecolor 7s infinite;
+}
+@keyframes changecolor {
+    0% { color: rgb(255, 196, 0);}
+    25% { color: blue;}
+    50% { color: purple;}
+    75% { color: green;}
+    100% { color: rgb(255, 196, 0);}
+}
+
+.name .menu{
+    background-image: url(./images/freefoto.jpg);
+    padding-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+a{
+    color: rgb(1, 31, 36);
+    padding-left: 40px;
+    font-size: 1.5em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500px;
+    text-decoration: underline;
+    text-shadow: 0 0 1px black;
+    margin-bottom: 15px;
+}
+.menu .A1{
+    color: aqua;
+}
+.menu a:hover{
+    size: 25px;
+    padding-right: 5px;
+    background: aqua;
+    color: rgb(70, 47, 2);
+    border-radius: 10px;
+    box-shadow: 0 0 15px aqua;
+}
+
+.categ{
+    background: linear-gradient(to right, #50043f, rgb(78, 1, 48));
+}
+.cat{
+    background-image: url(./images/freefoto.jpg);
+    margin-top: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px black;
+}
+.cat a:hover{
+    size: 25px;
+    padding-right: 5px;
+    background: aqua;
+    color: rgb(70, 47, 2);
+    border-radius: 10px;
+    box-shadow: 0 0 15px aqua;
+}
+.gosl{
+    background: linear-gradient(to right, #50043f, rgb(78, 1, 48));
+}
+.cat .A1{
+    color: aqua;
+}
